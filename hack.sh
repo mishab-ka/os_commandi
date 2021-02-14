@@ -5,6 +5,7 @@ echo "This is a os_command Injection CTF by H1DD3N_R47"
 sleep 5
 
 apt install php
+apt install nslookup
 clear
 echo "CTF server Starting..."
 sleep 2
